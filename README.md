@@ -89,6 +89,8 @@ tq bench
 - `llama.ui`: <https://github.com/olegshulyakov/llama.ui>
 
 ## Development
+<img width="1457" height="759" alt="image" src="https://github.com/user-attachments/assets/88c55837-893c-4f7a-8629-fbdf6519a37e" />
+
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
