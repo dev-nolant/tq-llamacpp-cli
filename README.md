@@ -15,7 +15,7 @@ Then:
 ```bash
 tq install
 tq doctor
-tq model download 'https://example.com/model.gguf'
+tq model download 'https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q5_K_M.gguf'
 tq daemon start
 tq daemon status
 tq open
@@ -44,7 +44,7 @@ tq model list
 tq model add /path/to/model.gguf
 tq model scan ~/models
 tq model default my-model
-tq model download 'https://example.com/model.gguf'
+tq model download 'https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q5_K_M.gguf'
 tq model remove my-model
 ```
 
